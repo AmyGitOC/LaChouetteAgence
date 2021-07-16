@@ -362,6 +362,94 @@ a:hover {
     z-index: 2;
 }
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.opinion-container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+
+.avis-title {
+    padding: 20px;
+}
+.avis-title p {
+    color: #F3976C!important;;
+    font-weight: bolder;
+    font-size: large;
+}
+.avis {
+    width: 400px;
+    height: 140px;  
+    padding-left: 20px;
+    /* animation-duration: 30s;
+    animation-name: slide;
+    animation-timing-function: linear;
+    animation-iteration-count: infinite; */
+  }
+  .avis .customer-opinion {
+      font-size: medium;
+  }
+  .avis .customer-name {
+      font-weight: bolder;
+  }
+  .realisations {
+  text-align: center;
+    padding: 10px;
+}
+.realisations p {
+    color: #F3976C!important;;
+    font-weight: bolder;
+    font-size: large;
+}
+
+
+.col-sm-12 h2{
+    color: white!important;
+    text-align: center;
+}
+
+.col-sm-12 .mg-md{
+    color: #F3976C!important;
+}
+
+#bloc-5-cta h2 {
+    font-size: xx-large;
+    color: white!important;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 @media (min-width: 768px) {
     .site-navigation {
         position: absolute;
