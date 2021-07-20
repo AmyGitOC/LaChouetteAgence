@@ -1114,6 +1114,23 @@ h4 {
         width: 180px;
         height: 320px;
     }
+    .tight-width-whitespace {
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+    }
+    .img-responsive {
+        height: 300px;
+        object-fit: cover;
+    }
+    .col-sm-6 {
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        width: 300px;
+    }
 }
 
 @media (max-width: 400px) {
