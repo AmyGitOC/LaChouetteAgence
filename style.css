@@ -459,11 +459,17 @@ blockquote {
     padding-top: 0px;
 }
 .footer-text {
-    color: #353333;
+    color: #F3976C;
 }
-
-
-
+.fa {
+    color: #F3976C!important;
+}
+.fa:hover {
+    color: #cccccc!important;
+}
+.col-sm-12.footer-div {
+    background-color: #484848;
+}
 
 
 
@@ -902,8 +908,8 @@ h4 {
 }
 
 .btn-atomic-tangerine:hover {
-    background: rgb(80, 78, 78)!important;
-    color: #F3976C!important;
+    background: #484848!important;
+    color: #cccccc!important;
 }
 
 .ltc-white {
